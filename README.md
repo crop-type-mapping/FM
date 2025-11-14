@@ -4,7 +4,8 @@ Geospatial Foundation Model (GFM): Galileo
 
 # Galileo Pretrained Remote Sensing Model – Rwanda Crop Type Classification
 
-A fine-tuning pipeline for the **[Galileo Pretrained Remote Sensing Model](https://github.com/nasaharvest/galileo)** to classify crop types using pixel-wise segmentation with multi-temporal Sentinel-1 and Sentinel-2 data in Rwanda.
+The synoptic and temporal capabilities of remote sensing technologies present a powerful solution for crop monitoring, offering continuous and automated assessments throughout various crop growth stages. To leverage this potential, we piloted an automated Artificial Intelligence (AI) remote sensing-based approach by fine-tuning the pipeline for the **[Galileo Pretrained Remote Sensing Model](https://github.com/nasaharvest/galileo)**  to map within-season crops in Rwanda.  This was accomplished in collaboration with Ministry of Agriculture and Animal Resources (MinAgri) and Rwanda Space Agency (RSA) through a grant support from GIZ. The pilot focused on four Rwandan districts: Nyagatare, Musanze, Nyabihu, and Ruhango, with particular emphasis on consolidated cropland areas (food basket sites) where land parcels are mapped, and crop mapping information is available. This initial pilot mapped four food basket crops namely maize, beans, rice, and Irish potatoes which are part of the Crop Intensification Programme (CIP). 
+By advancing both the development of the foundation model and establishing a clear integration pathway, this project substantially enhanced Rwanda’s agricultural monitoring capabilities, ultimately supporting evidence-based decision-making for food security and climate resilience. 
 
 ---
 
